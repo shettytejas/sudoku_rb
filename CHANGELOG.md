@@ -2,4 +2,5 @@
 
 ## [0.1.0] - 2023-07-28
 
-- Initial release
+- Initial Commit 💎
+- Sudoku Set Model ☝🏾
